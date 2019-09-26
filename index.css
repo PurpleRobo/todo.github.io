@@ -77,8 +77,7 @@ input:focus{
 .fa-plus{
 	float: right;
 	position: relative;
-	top: 20px;
-	margin: 0;
+	top: 3.2vh;
 }
 
 .completed{
